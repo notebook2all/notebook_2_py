@@ -9,7 +9,7 @@ setup(
     name="notebook_2_py",
     version="0.0.1",
     author="Sebastian Gonzalez-Tirado",
-    author_email="ebgoti8gmail.com",
+    author_email="sebgoti8@gmail.com",
     description="A package to convert your Jupyter Notebook",
     long_description=readme,
     long_description_content_type="text/markdown",
