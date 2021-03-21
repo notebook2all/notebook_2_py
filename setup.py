@@ -3,11 +3,11 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
-requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
+requirements = ["ipython>=7", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="notebook_2_py",
-    version="0.0.1",
+    version="0.0.13",
     author="Sebastian Gonzalez-Tirado",
     author_email="sebgoti8@gmail.com",
     description="A package to convert your Jupyter Notebook",
