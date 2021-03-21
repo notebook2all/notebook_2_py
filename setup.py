@@ -7,7 +7,7 @@ requirements = ["ipython>=7", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="notebook_2_py",
-    version="0.0.13",
+    version="0.0.14",
     author="Sebastian Gonzalez-Tirado",
     author_email="sebgoti8@gmail.com",
     description="A package to convert your Jupyter Notebook",
